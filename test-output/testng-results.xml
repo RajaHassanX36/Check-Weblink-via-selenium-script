@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-01T13:28:02 PKT" name="Default suite" finished-at="2022-11-01T13:28:08 PKT" duration-ms="5562">
+    <groups>
+    </groups>
+    <test started-at="2022-11-01T13:28:02 PKT" name="Default test" finished-at="2022-11-01T13:28:08 PKT" duration-ms="5562">
+      <class name="UI.TESTNG">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:UI.TESTNG@4567f35d]" started-at="2022-11-01T13:28:02 PKT" name="Setup" finished-at="2022-11-01T13:28:07 PKT" duration-ms="5000" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="Test1()[pri:1, instance:UI.TESTNG@4567f35d]" started-at="2022-11-01T13:28:07 PKT" name="Test1" description="This will show title of the page" finished-at="2022-11-01T13:28:07 PKT" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method signature="Test2()[pri:2, instance:UI.TESTNG@4567f35d]" started-at="2022-11-01T13:28:07 PKT" name="Test2" description="This will show google logo is there or not" finished-at="2022-11-01T13:28:07 PKT" duration-ms="76" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:UI.TESTNG@4567f35d]" started-at="2022-11-01T13:28:07 PKT" name="teardown" finished-at="2022-11-01T13:28:08 PKT" duration-ms="398" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- UI.TESTNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
